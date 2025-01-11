@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="https://files.catbox.moe/d2h7z2.png" alt="Aoba Plush" width="268" height="386"><img src="https://static.myfigurecollection.net/upload/items/2/128062-bfb35.jpg" alt="Noiz Plush" width="268" height="386">
 
 <!--
 **devilmaycry-3/devilmaycry-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
